@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.zip
+*.tgz
+*.log
+pnpm-lock.yaml
+packages/*/assets/*.onnx
+packages/*/assets/*.task
+colab/**/*.ckpt
+colab/**/*.pt
+eval/clips/**/*.mp4
+eval/clips/**/*.wav
